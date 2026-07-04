@@ -53,4 +53,4 @@ does not perform live neural generation; regenerate `molecules.json` from the
 published library with `build_1000_dataset.py` (in the main code repository) if
 you want a different sample.
 
-Code released under a BSD 3-Clause license.
+Code released under a BSD 3-Clause license
